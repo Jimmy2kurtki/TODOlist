@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TODOlist</string>
+    <string name="add">Добавить</string>
+    <string name="Done">Взял</string>
+    <string name="Delete">Убрать</string>
+    <string name="writePrice">Введи цену</string>
+    <string name="ok">ОК</string>
+    <string name="cancel">Отмена</string>
+</resources>

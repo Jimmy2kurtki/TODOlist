@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add">Добавить</string>
+    <string name="Done">Взял</string>
+    <string name="Delete">Убрать</string>
+    <string name="writePrice">Введи цену</string>
+    <string name="cancel">Отмена</string>
+</resources>

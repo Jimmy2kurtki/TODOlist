@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aguafina_script</item>
+        <item>@font/alex_brush</item>
+        <item>@font/allison</item>
+        <item>@font/allura</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/archivo_black</item>
+        <item>@font/arizonia</item>
+        <item>@font/babylonica</item>
+        <item>@font/bruno_ace_sc</item>
+        <item>@font/fascinate</item>
+        <item>@font/luckiest_guy</item>
+        <item>@font/miss_fajardose</item>
+        <item>@font/orbitron</item>
+        <item>@font/over_the_rainbow</item>
+        <item>@font/pacifico</item>
+        <item>@font/protest_guerrilla</item>
+        <item>@font/rouge_script</item>
+        <item>@font/slackside_one</item>
+        <item>@font/stalinist_one</item>
+        <item>@font/the_girl_next_door</item>
+        <item>@font/whisper</item>
+        <item>@font/windsong_medium</item>
+        <item>@font/zen_dots</item>
+    </array>
+</resources>
